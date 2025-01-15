@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋 Glad to see you here! 😁
 
-<!--
-**B4JD1K/B4JD1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Name: **Bartek**  
+### Age: **28**  
+### City: **Oświęcim, Poland**  
+### Gender: **Male**  
+### Contact: **bartlomiej.noworyta@yahoo.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Bachelor of Physical Education** and I'm finishing studies as **Engineer in Computer Science**!
+- In the near future, I am considering a Master's Degree in Cybersecurity! 😉  
+- I have over 1 year of commercial experience as an **IT System Implementer**.
+
+---
+
+### I am currently open to work as:
+- **Junior Java Software Developer**
+- **IT Systems Implementer**
+- or in the IT/tech industry!
+
+### 👨‍💻 My Skills:
+- **Programming Languages**:  
+   - **Java and Spring Boot**: For developing software solutions.
+   - **PowerShell & Bash**: For Windows and Linux automation, server management, and database scripting.
+   - **SQL**: Commercial experience with PostgreSQL and Firebird databases, including backups, migrations, and queries, and MySQL/MariaDb and SSMS gained during projects. 
+- **Linux**: Server management, automation, system setup (Rocky Linux, Fedora, Debian), and virtualization (Hyper-V, Proxmox, VMware).
+
+### 📚 Currently Working On:
+- **[Airbnb Clone](https://github.com/B4JD1K/Airbnb-clone)** – Clone of the popular booking service!
+
+### 💡 Currently Gaining Knowledge In:
+- **Java & Spring Boot** – Expanding my knowledge and improving software development skills.
+- **Angular** – Learning to work as Fullstack Developer!
+- **WordPress** – Improving web server management skills.
+
+### 🎯 What Am I Looking For:
+- **Remote work opportunities** – I am open to working with cool and interesting people on exciting projects. 🤩
+- **Collaborators** – Looking for people who would like to create big projects, maybe games, who also enjoy going out or playing 8pool 🎱.
+
+---
+
+### 🤯🐱‍👤 My Interests:
+- 🥋 I am a **2nd Dan Black Belt in Japanese Ju-Jitsu** and I teach **Ju-Jitsu**. I also practice **Taekwondo**, where I hold the **8th Kup** rank.
+- 🎮 I like to clear my mind also with online games!
+
+---
+
+If you think we could collaborate or just want to chat about tech, feel free to reach out! 🥳
+
+Peace!
