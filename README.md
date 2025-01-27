@@ -27,7 +27,12 @@ I am a **Bachelor of Physical Education** and I'm finishing studies as **Enginee
 - **Linux**: Server management, automation, system setup (Rocky Linux, Fedora, Debian), and virtualization (Hyper-V, Proxmox, VMware).
 
 ### 📚 Currently Working On:
+- **[Movie Application]()** - new project
+- **[Budget App](https://github.com/B4JD1K/budgetApp)** - temporarily abandoned 
+
+### 🏁 Finished:
 - **[Airbnb Clone](https://github.com/B4JD1K/Airbnb-clone)** – Clone of the popular booking service!
+- **[TDD Course](https://github.com/B4JD1K/TDD-Course)** - Some knowledge of Test Driven Development in Java!
 
 ### 💡 Currently Gaining Knowledge In:
 - **Java & Spring Boot** – Expanding my knowledge and improving software development skills.
@@ -36,7 +41,7 @@ I am a **Bachelor of Physical Education** and I'm finishing studies as **Enginee
 
 ### 🎯 What Am I Looking For:
 - **Remote work opportunities** – I am open to working with cool and interesting people on exciting projects. 🤩
-- **Collaborators** – Looking for people who would like to create big projects, maybe games, who also enjoy going out or playing 8pool 🎱.
+- **Collaborators** – Looking for people who would like to create big projects, maybe games, who also enjoy going out or playing 🎱.
 
 ---
 
