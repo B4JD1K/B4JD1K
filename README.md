@@ -15,7 +15,7 @@ I am a **Bachelor of Physical Education** and I'm finishing studies as **Enginee
 ---
 
 ### I am currently open to work as:
-- **Junior Java Software Developer**
+- **Java/Fullstack Software Developer**
 - **IT Systems Implementer**
 - or in the IT/tech industry!
 
