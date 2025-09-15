@@ -57,7 +57,7 @@
   - Discover and explore new movies.
 
 - **[Airbnb Clone](https://github.com/B4JD1K/airbnb-clone)**
-  - Scalable backend for property rentals _(no demo)_.
+  - Rent or book rentals. _(no demo)_.
 
 ---
 
