@@ -50,7 +50,11 @@
 
 ## 🚀 Projects
 
-- **[Travel Planner App](https://github.com/B4JD1K/travel-planner) — [Live Demo](https://travel-planner.bn000.shop)**
+<!-- - **[RichNote](https://github.com/B4JD1K/RichNote) — [Live Demo](https://richnote.bn000.shop)** -->
+- **[RichNote](https://github.com/B4JD1K/RichNote) — _Live Demo Soon_**
+  - Just smarter way to note everything!
+
+- **[Travel Planner](https://github.com/B4JD1K/travel-planner) — [Live Demo](https://travel-planner.bn000.shop)**
   - Plan your adventures with ease!
 
 - **[React Movie Database](https://github.com/B4JD1K/React-Movie-Database) — [Live Demo](https://b4-react-movie-database.netlify.app/)**
