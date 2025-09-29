@@ -22,7 +22,7 @@
 ---
 
 ## 🎓 Education
-- **Masters of Engineering, Computer Science, Cybersecurity**
+- **Masters of Engineering, Computer Science, Cybersecurity**  _(In progress)_
 - **Bachelor of Engineering, Computer Science, Business IT**
 - **Bachelor of Physical Education**
 
