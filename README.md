@@ -22,7 +22,8 @@
 ---
 
 ## 🎓 Education
-- **Bachelor of Engineering, Computer Science**
+- **Masters of Engineering, Computer Science, Cybersecurity**
+- **Bachelor of Engineering, Computer Science, Business IT**
 - **Bachelor of Physical Education**
 
 ---
