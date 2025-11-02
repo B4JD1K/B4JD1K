@@ -2,7 +2,7 @@
 
 ---
 
-### My name is **Bartek** and I'm **28**
+### My name is **Bartek** and I'm **29**
 ### I am working as a **Frontend Developer**
 ### You can contact me at: **bartlomiej.noworyta@yahoo.com**
 <p align="left">
